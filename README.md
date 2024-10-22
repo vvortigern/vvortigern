@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvortigern&label=Profile%20views&color=0e75b6&style=flat" alt="vvortigern" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvortigern" alt="vvortigern" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvortigern&theme=onedark" alt="vvortigern" /></a> </p>
 
 - 🔭 I’m currently working on [Veltrix](https://discord.gg/cQjGcvfcPe)
 
