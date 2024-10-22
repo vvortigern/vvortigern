@@ -34,6 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vvortigern&show_icons=true&locale=fr" alt="vvortigern" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vvortigern&theme=dark" alt="vvortigern" /></p>
-
-#   v v o r t i g e r n  
- 
